@@ -7,7 +7,7 @@ import { HeroesComponent } from './heroes/heroes.component';
 import {FormsModule} from '@angular/forms';
 import { HeroDetailComponent } from './heroes/hero-detail/hero-detail.component';
 import {HeroService} from './heroes/hero.service';
-import { MessagesComponent } from './heroes/messages/messages.component';
+import { MessagesComponent } from './messages/messages.component';
 import {MessageService} from './message.service';
 import { AppRoutingModule } from './/app-routing.module';
 import { DashboardComponent } from './dashboard/dashboard.component';
